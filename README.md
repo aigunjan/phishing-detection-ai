@@ -1,3 +1,4 @@
+
 # 🛡️ Phishing Detection AI Agent 🔍  
 
 ## 📌 Overview  
@@ -30,6 +31,20 @@ The **Phishing Detection AI Agent** is an advanced cybersecurity tool that ident
    ```bash
    python phishing_detection_agent.py
    ```
+
+---
+
+## 📂 Requirements  
+Ensure you have the following dependencies installed:  
+```txt
+numpy
+requests
+beautifulsoup4
+scikit-learn
+matplotlib
+pandas
+whois
+```
 
 ---
 
@@ -80,7 +95,7 @@ This project is licensed under the **MIT License**.
 ---
 
 ## 📣 Let's Connect  
-- 🔗 LinkedIn: [Your Profile](https://www.linkedin.com/in/gunjanthakor-a86b191?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+- 🔗 LinkedIn: [Gunjan Thakor](https://www.linkedin.com/in/gunjanthakor-a86b191)  
 
 
 #CyberSecurity #MachineLearning #PhishingDetection #Python #AI #ThreatDetection
