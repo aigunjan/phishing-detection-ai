@@ -80,7 +80,7 @@ This project is licensed under the **MIT License**.
 ---
 
 ## 📣 Let's Connect  
-- 🔗 LinkedIn: [Your Profile](www.linkedin.com/in/gunjan-thakor-a86b191b9)  
+- 🔗 LinkedIn: [Your Profile](https://www.linkedin.com/in/gunjanthakor-a86b191?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
 
 #CyberSecurity #MachineLearning #PhishingDetection #Python #AI #ThreatDetection
