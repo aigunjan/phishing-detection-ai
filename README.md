@@ -1,41 +1,48 @@
+# 🛡️ Phishing Detection AI Agent 🔍
 
-# 🛡️ Phishing Detection AI Agent 🔍  
+## 📌 Overview
 
-## 📌 Overview  
-The **Phishing Detection AI Agent** is an advanced cybersecurity tool that identifies phishing emails and suspicious URLs using **Machine Learning (ML) and Rule-Based Detection**. The system provides a risk assessment and visualization of phishing probability to help users mitigate online threats.  
-
----
-
-## ✨ Features  
-- 🧠 **AI-Powered Phishing Detection** – Uses ML to predict phishing probability.  
-- 🔗 **URL Analysis** – Detects fraudulent links in emails.  
-- 📧 **Email Content Scanning** – Flags urgent/threatening language.  
-- 📊 **Graph Visualization** – Compares ML predictions vs. rule-based scores.  
-- ⛔ **Mitigation Advice** – Provides security recommendations.  
+The **Phishing Detection AI Agent** is an advanced cybersecurity tool that identifies phishing emails and suspicious URLs using **Machine Learning (ML) and Rule-Based Detection**. The system provides a risk assessment and visualization of phishing probability to help users mitigate online threats.
 
 ---
 
-## 🚀 Installation  
-1. **Clone this repository**  
+## ✨ Features
+
+- 🧠 **AI-Powered Phishing Detection** – Uses ML to predict phishing probability.
+- 🔗 **URL Analysis** – Detects fraudulent links in emails.
+- 📧 **Email Content Scanning** – Flags urgent/threatening language.
+- 📊 **Graph Visualization** – Compares ML predictions vs. rule-based scores.
+- ⛔ **Mitigation Advice** – Provides security recommendations.
+
+---
+
+## 🚀 Installation
+
+1. **Clone this repository**
+
    ```bash
    git clone https://github.com/YOUR_USERNAME/phishing-detection-ai.git
    cd phishing-detection-ai
    ```
 
-2. **Install dependencies**  
+2. **Install dependencies**
+
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Run the AI Agent**  
+3. **Run the AI Agent**
+
    ```bash
    python phishing_detection_agent.py
    ```
 
 ---
 
-## 📂 Requirements  
-Ensure you have the following dependencies installed:  
+## 📂 Requirements
+
+Ensure you have the following dependencies installed:
+
 ```txt
 numpy
 requests
@@ -48,15 +55,18 @@ whois
 
 ---
 
-## 📊 Graph Visualization  
-Your AI generates a **graph comparing ML predictions vs. rule-based scores.**  
-👉 Example screenshot:  
-![Phishing Risk Graph](screenshots/phishing_risk_analysis.png)  
+## 📊 Graph Visualization
+
+Your AI generates a **graph comparing ML predictions vs. rule-based scores.**\
+👉 Example screenshot:\
+
 
 ---
 
-## 📂 Usage  
-- **Analyze Emails**  
+## 📂 Usage
+
+- **Analyze Emails**
+
   ```python
   email_content = "Urgent! Verify your PayPal account now: http://paypal-secure.tk/login"
   email_headers = {"From": "security@paypal.com", "Subject": "URGENT: Verify Your Account"}
@@ -64,7 +74,8 @@ Your AI generates a **graph comparing ML predictions vs. rule-based scores.**
   print(result)
   ```
 
-- **Analyze URLs**  
+- **Analyze URLs**
+
   ```python
   url_result = agent.analyze_url("http://paypal-secure.tk/login")
   print(url_result)
@@ -72,7 +83,8 @@ Your AI generates a **graph comparing ML predictions vs. rule-based scores.**
 
 ---
 
-## 🏆 Results Example  
+## 🏆 Results Example
+
 ```
 Risk Level: High
 ML Probability: 87%
@@ -82,21 +94,24 @@ Combined Risk Score: 75%
 
 ---
 
-## 🌍 Contributing  
-1. Fork the repo  
-2. Create a feature branch  
-3. Submit a pull request  
+## 🌍 Contributing
+
+1. Fork the repo
+2. Create a feature branch
+3. Submit a pull request
 
 ---
 
-## 📢 License  
+## 📢 License
+
 This project is licensed under the **MIT License**.
 
 ---
 
-## 📣 Let's Connect  
-- 🔗 LinkedIn: [Gunjan Thakor](https://www.linkedin.com/in/gunjanthakor-a86b191)  
+## 📣 Let's Connect
 
+- 🔗 LinkedIn: [Gunjan Thakor](https://www.linkedin.com/in/gunjanthakor-a86b191)
+-
 
-#CyberSecurity #MachineLearning #PhishingDetection #Python #AI #ThreatDetection
+\#CyberSecurity #MachineLearning #PhishingDetection #Python #AI #ThreatDetection
 
